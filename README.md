@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book Store MERN stack project
 
 ## Lessons
@@ -24,3 +25,6 @@
 - [x] Lesson 20: Make Book Card a single component
 - [x] Lesson 21: Add Book Modal
 - [x] Lesson 22: Improve User Experience (UX) with beautiful alert
+=======
+# MERN-Book-Store-App
+>>>>>>> 5854398f865d4b401ba87cf28e1cc53fb332d6f9
